@@ -1,0 +1,10 @@
+{
+  "name": "web-plugins-monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo for web plugins",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
